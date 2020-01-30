@@ -56,6 +56,7 @@ function writeToFile(fileName, data) {
 function init() {
 
 init();
+};
 
 // * The generated resume includes a bio image from the user's GitHub profile.
 
